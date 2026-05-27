@@ -82,7 +82,7 @@ rag-doc-bot/
 ## Clone Repository
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/yogeshkanna-ai/rag-doc-bot.git
 cd rag-doc-bot
 ```
 
