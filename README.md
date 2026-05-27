@@ -146,9 +146,24 @@ streamlit run streamlit_app.py
 
 # 📸 Screenshots
 
-_Add screenshots here later_
+## Main Interface
+
+![Main UI](screenshots/home.png)
 
 ---
+
+## Chat-Based Question Answering
+
+![Chat UI](screenshots/chat.png)
+
+---
+
+## Source Chunk Retrieval
+
+![Sources](screenshots/sources.png)
+
+---
+
 
 # 🔮 Future Improvements
 
